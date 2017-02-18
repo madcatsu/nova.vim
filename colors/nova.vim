@@ -39,7 +39,7 @@ else
 	let s:inconspicuous = "#B0BEC5"
 	let s:selection     = "#455A64"
 	let s:line          = "#37474F"
-	let s:background    = "#263238"
+	let s:background    = "#111111"
 
 	let s:red           = "#EF5350"
 	let s:pink          = "#EC407A"
